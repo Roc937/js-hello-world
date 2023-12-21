@@ -4,7 +4,10 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello, world!");
+console.log("Hello, peeps!")
+console.log("10+10=20")
+console.log("How are you guys today?") 
+console.log("Im doing just fine!")
 
 /*  
 Next, PLAY! 
